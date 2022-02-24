@@ -1,2 +1,2 @@
-# ATBMHTTT_Algorithms
-Algorithms encrypt and decrypt
+# Algorithms-Encrypt-Decrypt
+Đối xứng: DES,AES,... + Bất đối xứng:RSA,DSA,... + Hash:MD5,SHA,...
